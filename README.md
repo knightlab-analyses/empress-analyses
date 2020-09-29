@@ -24,4 +24,4 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 2C
 
-[TBD]
+See the [notebook](https://nbviewer.jupyter.org/github/knightlab-analyses/empress-analyses/blob/master/notebooks/fig2c/fig2c.ipynb).
