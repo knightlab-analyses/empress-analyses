@@ -6,6 +6,8 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 1A
 
+[Link to QZV](notebooks/fig1/output/EMP_empire.qzv)
+
 1. Change `Layout` to `Circular`
 2. Color tips by phylum assignment
     1. `Feature Metadata Coloring` color by `phylum_assignment`
@@ -23,6 +25,8 @@ the Jupyter notebooks (see the `notebooks` folder).
     2. Click `Search`
 
 ## Figure 1B
+
+[Link to QZV](notebooks/fig1/output/ph_EMP_empress.qzv)
 
 1. Change `Layout` to `Circular`
 2. Color tips by phylum assignment
