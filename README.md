@@ -24,7 +24,7 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 2C
 
-[Link to QZV](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig2c/output/tree-viz.qzv)
+[Link to QZV of the EMPress plot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig2c/output/tree-viz.qzv).
 
 To reproduce the figure within this QZV:
 
