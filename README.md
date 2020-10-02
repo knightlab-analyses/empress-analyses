@@ -58,4 +58,4 @@ To reproduce the figure within this QZV:
     2. Set `Length` to 100.
 11. Click `Update`.
 
-See the [notebook](https://nbviewer.jupyter.org/github/knightlab-analyses/empress-analyses/blob/master/notebooks/fig2c/fig2c.ipynb) for details on how we merged the data, generated an EMPress visualization, and configured the visualization.
+See the [notebook](https://nbviewer.jupyter.org/github/knightlab-analyses/empress-analyses/blob/master/notebooks/fig2c.ipynb) for details on how we merged the data, generated an EMPress visualization, and configured the visualization.
