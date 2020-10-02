@@ -6,7 +6,7 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 1A
 
-[Link to QZV](notebooks/fig1/output/EMP_empire.qzv)
+[Link to QZV of EMPire plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig1/output/EMP_empire.qzv)
 
 1. Change `Layout` to `Circular`
 2. Color tips by phylum assignment
@@ -26,7 +26,8 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 1B
 
-[Link to QZV](notebooks/fig1/output/ph_EMP_empress.qzv)
+
+[Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig1/output/ph_EMP_empress.qzv)
 
 1. Change `Layout` to `Circular`
 2. Color tips by phylum assignment
