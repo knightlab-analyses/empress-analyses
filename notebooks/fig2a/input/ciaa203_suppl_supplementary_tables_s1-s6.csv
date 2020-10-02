@@ -1,0 +1,54 @@
+sample id	Gender	Age	Disease	Virus	Type	Clinical lab	Temperature(℃)	Days after onset	ICU	Outcome 
+COVID1	female	49	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	8	Y	Deceased
+COVID2	female	52	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	8	Y	Deceased
+COVID3	male	40	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	15	Y	Deceased
+COVID4	male	61	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	12	Y	Recovered
+COVID5	male	40	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	8	Y	Deceased
+COVID6	male	56	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	10	Y	Deceased
+COVID7	female	53	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	7	N	Recovered
+COVID8	male	41	COVID-19	SARS-CoV-2	COVID-19	Negative	NA	4	NA	NA
+HC1	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC10	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC11	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC12	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC13	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC14	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC15	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC16	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC17	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC18	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC19	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC2	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC20	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC3	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC4	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC5	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC6	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC7	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC8	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+HC9	NA	NA	Healthy	NA	Healthy	Negative	NA	NA	NA	NA
+CAP1	female	76	Community acquired pneumonia	Human mastadenovirus B	Virus-like	Adenovirus,P.Aeruginosa,A.baumannii,other	38	6	NA	NA
+CAP10	male	23	Community acquired pneumonia	Rhinovirus A	Virus-like	Negative	38.5	10	NA	NA
+CAP11	female	45	Community acquired pneumonia	Rhinovirus B	Virus-like	Adenovirus	39	2	NA	NA
+CAP12	male	46	Community acquired pneumonia	Rhinovirus A	Virus-like	Negative	38.5	NA	NA	NA
+CAP13	female	22	Community acquired pneumonia	Rhinovirus A	Virus-like	Negative	38.2	NA	NA	NA
+CAP14	female	24	Community acquired pneumonia	Measles morbillivirus	Virus-like	Negative	39.8	NA	NA	NA
+CAP15	female	58	Community acquired pneumonia	Rhinovirus C	Virus-like	Negative	39.7	10	NA	NA
+CAP16	NA	NA	Community acquired pneumonia	Influenza A virus	Virus-like	Negative	NA	NA	NA	NA
+CAP17	NA	NA	Community acquired pneumonia	Influenza A virus	Virus-like	Negative	NA	NA	NA	NA
+CAP18	NA	NA	Community acquired pneumonia	Influenza A virus	Virus-like	Negative	NA	NA	NA	NA
+CAP19	male	68	Community acquired pneumonia	Influenza B virus	Virus-like	Negative	38.5	8	NA	NA
+CAP2	NA	NA	Community acquired pneumonia	Rhinovirus A	Virus-like	Negative	NA	NA	NA	NA
+CAP20	male	NA	Community acquired pneumonia	Rhinovirus A	Virus-like	Negative	38.5	10	NA	NA
+CAP21	male	35	Community acquired pneumonia	Enterovirus D	Virus-like	Negative	39	12	NA	NA
+CAP22	male	35	Community acquired pneumonia	Enterovirus D	Virus-like	Negative	39	14	NA	NA
+CAP23	male	85	Community acquired pneumonia	Enterovirus D	Virus-like	Negative	37	8	NA	NA
+CAP24	male	72	Community acquired pneumonia	Human coronavirus HKU1	Virus-like	Negative	37	13	NA	NA
+CAP25	NA	NA	Community acquired pneumonia	Influenza A virus	Virus-like	Negative	NA	NA	NA	NA
+CAP3	male	74	Community acquired pneumonia	Rhinovirus B	Virus-like	Rhinovirus	NA	NA	NA	NA
+CAP4	female	51	Community acquired pneumonia	Rhinovirus B	Virus-like	Rhinovirus	NA	NA	NA	NA
+CAP5	male	59	Community acquired pneumonia	Rhinovirus A	Virus-like	Rhinovirus,Influenza A virus	NA	NA	NA	NA
+CAP6	female	NA	Community acquired pneumonia	Human orthopneumovirus	Virus-like	Negative	NA	7	NA	NA
+CAP7	male	NA	Community acquired pneumonia	Influenza B virus	Virus-like	Negative	NA	11	NA	NA
+CAP8	female	39	Community acquired pneumonia	Human orthopneumovirus	Virus-like	M.pneumoniae	38.8	10	NA	NA
+CAP9	male	57	Community acquired pneumonia	Human orthopneumovirus	Virus-like	Negative	36.8	6	NA	NA
