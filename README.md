@@ -53,8 +53,21 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 2A
 
-[TBD]
-
+1. In the `Layout` tab
+    1. Change `Layout` to `Circular`
+    2. Change `Sort clades based on tip count?` to `No sorting`
+2. In the `Feature Metadata Coloring` tab
+    1. Select `custom_level` for `Color by...`  
+    2. Set `Color Map` to `Spectral`
+    3. Check `Collapse Clades`
+3. In the `Barplots` tab
+    1. Check `Draw barplots?`
+    2. Click `Feature Metadata`
+    3. Color by `covid_hc_sig`
+    4. Set `Color Map` to `Spectral`
+4. Double click on the `Carbon-carbon lyases` clade (the larger red clade)
+5. In `Search by node name...`, search for 4.1.1.20
+ 
 
 ## Figure 2B
 
