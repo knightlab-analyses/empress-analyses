@@ -53,7 +53,7 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 2A
 
-[Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?type=html&src=https%3A%2F%2Fraw.githubusercontent.com%2Fknightlab-analyses%2Fempress-analyses%2Fmaster%2Fnotebooks%2Ffig2a%2Finput%2Fcovid-plot-no-emperor.qzv)
+[Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig2a/output/covid-plot-no-emperor.qzv)
 
 1. In the `Layout` tab
     1. Change `Layout` to `Circular`
