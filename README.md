@@ -53,6 +53,8 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 2A
 
+[Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?type=html&src=https%3A%2F%2Fraw.githubusercontent.com%2Fknightlab-analyses%2Fempress-analyses%2Fmaster%2Fnotebooks%2Ffig2a%2Finput%2Fcovid-plot-no-emperor.qzv)
+
 1. In the `Layout` tab
     1. Change `Layout` to `Circular`
     2. Change `Sort clades based on tip count?` to `No sorting`
@@ -66,7 +68,7 @@ the Jupyter notebooks (see the `notebooks` folder).
     3. Color by `covid_hc_sig`
     4. Set `Color Map` to `Spectral`
 4. Double click on the `Carbon-carbon lyases` clade (the larger red clade)
-5. In `Search by node name...`, search for 4.1.1.20
+5. In `Search by node name...`, search for `4.1.1.20`
  
 
 ## Figure 2B
