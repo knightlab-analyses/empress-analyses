@@ -101,7 +101,8 @@ To reproduce the figure within this QZV:
 1. Change `Layout` to `Circular`
 2. Color tips by their phylum-level taxonomic classifications:
     1. Use `Feature Metadata Coloring` to color by `Level 2`.
-    2. Click `Update`.
+    2. Set `Extra Line Width` to `15`.
+    3. Click `Update`.
 3. In the `Barplots` tab, click the checkbox marked `Draw barplots?`.
 4. Add a barplot for the Songbird differentials. Within the `Layer 1` section:
     1. Click on `Color by...` and select `C(brushing_event)[T.before]`.
