@@ -26,7 +26,6 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 1B
 
-
 [Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig1/output/ph_EMP_empress.qzv)
 
 1. Change `Layout` to `Circular`
@@ -106,14 +105,14 @@ To reproduce the figure within this QZV:
 3. In the `Barplots` tab, click the checkbox marked `Draw barplots?`.
 4. Add a barplot for the Songbird differentials. Within the `Layer 1` section:
     1. Click on `Color by...` and select `C(brushing_event)[T.before]`.
-    2. Set the `Color Map` to `Spectral`.
+    2. Set the `Color Map` to `Red-Blue`.
     3. Check the `Continuous values?` checkbox.
     4. Set `Default length` to 500.
 5. Click `Update`.
 6. Add a barplot for the ALDEx2 effect sizes. Click `Add another layer`. Within
    the `Layer 2` section:
     1. Click on `Color by...` and select `sfit.effect`.
-    2. Set the `Color Map` to `Spectral`.
+    2. Set the `Color Map` to `Red-Blue`.
     3. Check the `Continuous values?` checkbox.
     4. Set `Default length` to 500.
 7. Click `Update`.
