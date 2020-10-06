@@ -73,8 +73,24 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 2B
 
-[TBD]
+[Link to QZV of the EMPress plot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig2b/output/fig2b.qzv).
 
+To reproduce the figure within this QZV:
+
+1. Change `Layout` to `Circular`
+2. Color tips by their supperclass annotation:
+    1. Use `Feature Metadata Coloring` to color by `superclass`.
+    2. Set the `Extra Line Width` to `15`, hit enter.
+    3. Click `Update`.
+3. In the `Barplots` tab, click the checkbox marked `Draw barplots?`.
+4. Add a barplot for the common meal type annotation. Within the `Layer 1` section:
+    1. Click on `Sample Metadata`.
+    2. Click on `Show sample info for ...` and select `common_meal_type`.
+    3. Set the `Color Map` to `Accent`.
+    4. Set `Length` to 700.
+5. Click `Update`.
+
+See the [notebook](https://nbviewer.jupyter.org/github/knightlab-analyses/empress-analyses/blob/master/notebooks/fig2b.ipynb) for details on how we merged the data, generated an EMPress visualization, and configured the visualization.
 
 ## Figure 2C
 
