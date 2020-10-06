@@ -91,7 +91,7 @@ To reproduce the figure within this QZV:
 
 See the [notebook](https://nbviewer.jupyter.org/github/knightlab-analyses/empress-analyses/blob/master/notebooks/fig2b.ipynb) for details on how we merged the data, generated an EMPress visualization, and configured the visualization.
 
-## Figure 2C
+## Figure 2C (and Supplemental Figure 1)
 
 [Link to QZV of the EMPress plot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig2c/output/tree-viz.qzv).
 
