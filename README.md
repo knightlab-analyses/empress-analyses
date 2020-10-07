@@ -14,7 +14,7 @@ the Jupyter notebooks (see the `notebooks` folder).
     2. Set `Color Map` to `Dark`
     3. Click `Update`
 3. EMPO 2 barplot
-    1. Check `Draw barplots?`
+    1. Check `Draw barplots?` in `Barplots` menu
     2. Click `Sample Metadata`
     3. Show sample info for `empo_2`
     4. Set `Color Map` to `Set1`
@@ -30,25 +30,22 @@ the Jupyter notebooks (see the `notebooks` folder).
 [Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig1/output/ph_EMP_empress.qzv)
 
 1. Change `Layout` to `Circular`
-2. Color tips by phylum assignment
-    1. `Feature Metadata Coloring` color by `phylum_assignment`
-    2. Set `Color Map` to `Dark`
-    3. Click `Update`
+2. Phylum assignment barplot
+    1. Check `Draw barplots?` in `Barplots` menu
+    2. Click `Feature Metadata`
+    3. Color by `phylum_assignment`
+    4. Set `Color Map` to `Dark`
+    5. Set length to 600
 3. Mean pH barplot
-    1. Check `Draw barplots?`
+    1. Click `Add another layer`
     2. Click `Feature Metadata`
     3. Color by `arithmetic_mean`
-    4. Set `Color Map` to `Blues`
+    4. Set `Color Map` to `Yellow-Green-Blue`
     5. Check `Continuous values?`
-4. Sample presence barplot
-    1. Check `Draw barplots?`
-    2. Click `Feature Metadata`
-    3. Color by `log10_sample_presence`
-    4. Set `Color Map` to `Reds`
-    5. Check `Continuous values?`
-5. Add space between barplots
+    6. Set length to 600
+4. Add space between barplots
     1. Check `Add a border around barplot layers?`
-    2. Set `Length` to 50
+    2. Set `Length` to 100
     3. Click `Update`
 
 ## Figure 2A
