@@ -45,7 +45,7 @@ the Jupyter notebooks (see the `notebooks` folder).
     6. Set length to 600
 4. Add space between barplots
     1. Check `Add a border around barplot layers?`
-    2. Set `Length` to 50
+    2. Set `Length` to 100
     3. Click `Update`
 
 ## Figure 2A
