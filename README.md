@@ -1,8 +1,13 @@
 # empress-analyses
 
 This document outlines the steps needed to recreate figure 1A, 1B and 2A-C. To
-generate the artifacts in these figures, we recommend following the steps in
-the Jupyter notebooks (see the `notebooks` folder).
+generate the artifacts in these figures, we recommend [installing
+Empress](https://github.com/biocore/empress), and following the steps in the
+Jupyter notebooks (see the `notebooks` folder).
+
+For visualizing the live artifacts, **we recommend using Safari or
+Firefox**, Google Chrome is known to show degraded performance with large
+files (for example Figure 1A-B).
 
 ## Figure 1A
 
