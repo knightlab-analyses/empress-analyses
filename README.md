@@ -2,12 +2,13 @@
 
 This document outlines the steps needed to recreate figure 1A, 1B and 2A-C. To
 generate the artifacts in these figures, we recommend [installing
-Empress](https://github.com/biocore/empress), and following the steps in the
-Jupyter notebooks (see the `notebooks` folder).
+Empress](https://github.com/biocore/empress), cloning this repository, and
+following the steps in the Jupyter notebooks (see the `notebooks` folder).
 
 For visualizing the QZV files **we recommend using Safari or
-Firefox**, Google Chrome is known to show degraded performance with large
-files (for example Figure 1A-B).
+Firefox**, since Google Chrome is known to show degraded performance when
+loading large files in certain cases (for example Figure 1A-B). See
+[here](https://stackoverflow.com/a/59438847/10730311) for details on this.
 
 ## Figure 1A
 
