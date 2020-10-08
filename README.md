@@ -5,7 +5,7 @@ generate the artifacts in these figures, we recommend [installing
 Empress](https://github.com/biocore/empress), and following the steps in the
 Jupyter notebooks (see the `notebooks` folder).
 
-For visualizing the live artifacts, **we recommend using Safari or
+For visualizing the QZV files **we recommend using Safari or
 Firefox**, Google Chrome is known to show degraded performance with large
 files (for example Figure 1A-B).
 
