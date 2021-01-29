@@ -1,8 +1,14 @@
 # empress-analyses
 
 This document outlines the steps needed to recreate figure 1A, 1B and 2A-C. To
-generate the artifacts in these figures, we recommend following the steps in
-the Jupyter notebooks (see the `notebooks` folder).
+generate the artifacts in these figures, we recommend [installing
+Empress](https://github.com/biocore/empress), cloning this repository, and
+following the steps in the Jupyter notebooks (see the `notebooks` folder).
+
+For visualizing the QZV files **we recommend using Safari or
+Firefox**, since Google Chrome is known to show degraded performance when
+loading large files in certain cases (for example Figure 1A-B). See
+[here](https://stackoverflow.com/a/59438847/10730311) for details on this.
 
 ## Figure 1A
 
@@ -14,7 +20,7 @@ the Jupyter notebooks (see the `notebooks` folder).
     2. Set `Color Map` to `Dark`
     3. Click `Update`
 3. EMPO 2 barplot
-    1. Check `Draw barplots?`
+    1. Check `Draw barplots?` in `Barplots` menu
     2. Click `Sample Metadata`
     3. Show sample info for `empo_2`
     4. Set `Color Map` to `Set1`
@@ -26,29 +32,25 @@ the Jupyter notebooks (see the `notebooks` folder).
 
 ## Figure 1B
 
-
 [Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig1/output/ph_EMP_empress.qzv)
 
 1. Change `Layout` to `Circular`
-2. Color tips by phylum assignment
-    1. `Feature Metadata Coloring` color by `phylum_assignment`
-    2. Set `Color Map` to `Dark`
-    3. Click `Update`
+2. Phylum assignment barplot
+    1. Check `Draw barplots?` in `Barplots` menu
+    2. Click `Feature Metadata`
+    3. Color by `phylum_assignment`
+    4. Set `Color Map` to `Dark`
+    5. Set length to 600
 3. Mean pH barplot
-    1. Check `Draw barplots?`
+    1. Click `Add another layer`
     2. Click `Feature Metadata`
     3. Color by `arithmetic_mean`
-    4. Set `Color Map` to `Blues`
+    4. Set `Color Map` to `Yellow-Green-Blue`
     5. Check `Continuous values?`
-4. Sample presence barplot
-    1. Check `Draw barplots?`
-    2. Click `Feature Metadata`
-    3. Color by `log10_sample_presence`
-    4. Set `Color Map` to `Reds`
-    5. Check `Continuous values?`
-5. Add space between barplots
+    6. Set length to 600
+4. Add space between barplots
     1. Check `Add a border around barplot layers?`
-    2. Set `Length` to 50
+    2. Set `Length` to 100
     3. Click `Update`
 
 ## Figure 2A
@@ -92,7 +94,7 @@ To reproduce the figure within this QZV:
 
 See the [notebook](https://nbviewer.jupyter.org/github/knightlab-analyses/empress-analyses/blob/master/notebooks/fig2b.ipynb) for details on how we merged the data, generated an EMPress visualization, and configured the visualization.
 
-## Figure 2C
+## Figure 2C (and Supplemental Figure 1)
 
 [Link to QZV of the EMPress plot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig2c/output/tree-viz.qzv).
 
@@ -106,14 +108,14 @@ To reproduce the figure within this QZV:
 3. In the `Barplots` tab, click the checkbox marked `Draw barplots?`.
 4. Add a barplot for the Songbird differentials. Within the `Layer 1` section:
     1. Click on `Color by...` and select `C(brushing_event)[T.before]`.
-    2. Set the `Color Map` to `Spectral`.
+    2. Set the `Color Map` to `Red-Blue`.
     3. Check the `Continuous values?` checkbox.
     4. Set `Default length` to 500.
 5. Click `Update`.
 6. Add a barplot for the ALDEx2 effect sizes. Click `Add another layer`. Within
    the `Layer 2` section:
     1. Click on `Color by...` and select `sfit.effect`.
-    2. Set the `Color Map` to `Spectral`.
+    2. Set the `Color Map` to `Red-Blue`.
     3. Check the `Continuous values?` checkbox.
     4. Set `Default length` to 500.
 7. Click `Update`.
