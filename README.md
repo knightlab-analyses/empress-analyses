@@ -19,12 +19,12 @@ loading large files in certain cases (for example Figure 1A-B). See
     1. `Feature Metadata Coloring` color by `phylum_assignment`
     2. Set `Color Map` to `Dark`
     3. Click `Update`
-3. EMPO 2 barplot
+3. EMPO 1 barplot
     1. Check `Draw barplots?` in `Barplots` menu
     2. Click `Sample Metadata`
-    3. Show sample info for `empo_2`
-    4. Set `Color Map` to `Set1`
-    5. Set `Length` to 500
+    3. Show sample info for `empo_1`
+    4. Set `Color Map` to `Yellow-Orange-Red`
+    5. Set `Length` to 150
     6. Click `Update`
 4. Search for specific feature
     1. Copy `TACGTAGGTCCCGAGCGTTGTCCGGATTTATTGGGCGTAAAGCGAGCGCAGACGGTTACTTAAGCAGGATGTGAAATCCCCGGGCTCAAC` into search bar
@@ -40,17 +40,17 @@ loading large files in certain cases (for example Figure 1A-B). See
     2. Click `Feature Metadata`
     3. Color by `phylum_assignment`
     4. Set `Color Map` to `Dark`
-    5. Set length to 600
+    5. Set length to 150
 3. Mean pH barplot
     1. Click `Add another layer`
     2. Click `Feature Metadata`
     3. Color by `arithmetic_mean`
     4. Set `Color Map` to `Yellow-Green-Blue`
     5. Check `Continuous values?`
-    6. Set length to 600
+    6. Set length to 150
 4. Add space between barplots
     1. Check `Add a border around barplot layers?`
-    2. Set `Length` to 100
+    2. Set `Length` to 20
     3. Click `Update`
 
 ## Figure 2A
