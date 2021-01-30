@@ -76,7 +76,7 @@ loading large files in certain cases (for example Figure 1A-B). See
     9. Change `Border Color` to `black`
     10. Set border `Length` to `5`
     11. Click the `Update` Button
-    12. Note: No significant differnce = 0, Lower in COVID-19 samples = -1, Higher in COVID-19 samples = 1
+    12. Note: No significant difference = 0, Lower in COVID-19 samples = -1, Higher in COVID-19 samples = 1
 4. Double click on the `Carbon-carbon lyases` clade (the larger red clade)
 5. In `Search by node name...`, search for `4.1.1.20`
  
