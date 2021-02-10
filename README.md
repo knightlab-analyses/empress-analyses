@@ -32,8 +32,8 @@ loading large files in certain cases (for example Figure 1A-B). See
 
 After configuring the tree, you can now configure the ordination panel on the right:
 
-1. Go to the `Color` tab on the right and select `empo_1`.
-2. In the second dropdown menu in the `Color` tab select `Yellow-Orange-Red`.
+1. Go to the `Color` tab on the right and select `empo_1` as the `Color Category` (in the first dropdown menu).
+2. In the second dropdown menu in the `Color` tab, select `Yellow-Orange-Red`.
 
 ## Figure 1B
 
