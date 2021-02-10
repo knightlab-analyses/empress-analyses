@@ -30,6 +30,11 @@ loading large files in certain cases (for example Figure 1A-B). See
     1. Copy `TACGTAGGTCCCGAGCGTTGTCCGGATTTATTGGGCGTAAAGCGAGCGCAGACGGTTACTTAAGCAGGATGTGAAATCCCCGGGCTCAAC` into search bar
     2. Click `Search`
 
+After configuring the tree, you can now configure the ordination panel on the right:
+
+1. Go to the `Color` tab on the right and select `empo_1` as the `Color Category` (in the first dropdown menu).
+2. In the second dropdown menu in the `Color` tab, select `Yellow-Orange-Red`.
+
 ## Figure 1B
 
 [Link to QZV of EMPress plot.](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/empress-analyses/master/notebooks/fig1/output/ph_EMP_empress.qzv)
